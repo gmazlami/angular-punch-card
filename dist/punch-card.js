@@ -10,6 +10,7 @@
       restrict: "AE",
       scope: {
         data: "=",
+	days: "=",
         plural: "@",
         singular: "@"
       },
